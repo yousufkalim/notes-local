@@ -1,3 +1,4 @@
+//init
 console.log(`Hey Developer! Welcome to Magic Notes`);
 showNotes();
 
